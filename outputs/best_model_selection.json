@@ -1,0 +1,14 @@
+{
+  "best_model_file": "test_predictions.csv",
+  "metrics": {
+    "r2": 0.5860681249327202,
+    "rmse": 6.412611503751627,
+    "mae": 4.427307428880791,
+    "mse": 41.12158629804771
+  },
+  "samples": 9605,
+  "quality_flags": {
+    "has_negative_predictions": false,
+    "has_extreme_predictions": false
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "MSE": 69.47111511230469,
+  "RMSE": 8.334933419788348,
+  "MAE": 6.455459117889404,
+  "R2": 0.300956666469574,
+  "test_samples": 9620,
+  "model_path": "./models/lstm_traffic_model_final.pth",
+  "timestamp": "20260213_224333"
+}
